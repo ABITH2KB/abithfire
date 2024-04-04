@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16925680145",
+    "project_id": "abijithfirebase",
+    "storage_bucket": "abijithfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16925680145:android:95d0ad4282ed50ed25c7b0",
+        "android_client_info": {
+          "package_name": "com.example.abijithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAptw7wSHtIEkuFun_N1zPsA3lReWmFoTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
